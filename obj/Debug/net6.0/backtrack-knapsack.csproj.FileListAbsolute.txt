@@ -1,0 +1,45 @@
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.exe
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.deps.json
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.runtimeconfig.json
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.pdb
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.AssemblyReference.cache
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfoInputs.cache
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfo.cs
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.CoreCompileInputs.cache
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\refint\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.pdb
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.genruntimeconfig.cache
+E:\uni\term5\طراحی الگوریتم\project source code\backtrack-knapsack\obj\Debug\net6.0\ref\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.AssemblyReference.cache
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfoInputs.cache
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfo.cs
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.CoreCompileInputs.cache
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\refint\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.pdb
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.exe
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.deps.json
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.runtimeconfig.json
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.dll
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.pdb
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.genruntimeconfig.cache
+E:\uni\term5\طراحی الگوریتم\New folder (2)\backtrack-knapsack\obj\Debug\net6.0\ref\backtrack-knapsack.dll
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.AssemblyReference.cache
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfoInputs.cache
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.AssemblyInfo.cs
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.csproj.CoreCompileInputs.cache
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.dll
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\refint\backtrack-knapsack.dll
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.pdb
+C:\Users\iraninan\Desktop\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.exe
+C:\Users\iraninan\Desktop\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.deps.json
+C:\Users\iraninan\Desktop\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.runtimeconfig.json
+C:\Users\iraninan\Desktop\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.dll
+C:\Users\iraninan\Desktop\backtrack-knapsack\bin\Debug\net6.0\backtrack-knapsack.pdb
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\backtrack-knapsack.genruntimeconfig.cache
+C:\Users\iraninan\Desktop\backtrack-knapsack\obj\Debug\net6.0\ref\backtrack-knapsack.dll
